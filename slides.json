@@ -1,0 +1,54 @@
+{
+  "slides": [
+    {
+      "id": "slide-01-title",
+      "title": "Title",
+      "file": "slides/slide-01-title.html"
+    },
+    {
+      "id": "slide-02-introduction",
+      "title": "Introduction",
+      "file": "slides/slide-02-introduction.html"
+    },
+    {
+      "id": "slide-03-agentic-coder",
+      "title": "Agentic Coder",
+      "file": "slides/slide-03-agentic-coder.html"
+    },
+    {
+      "id": "slide-04-in-ide-tools",
+      "title": "In-IDE Tools",
+      "file": "slides/slide-04-in-ide-tools.html"
+    },
+    {
+      "id": "slide-05-cli-agents",
+      "title": "CLI Agents",
+      "file": "slides/slide-05-cli-agents.html"
+    },
+    {
+      "id": "slide-06-use-cases",
+      "title": "Use Cases",
+      "file": "slides/slide-06-use-cases.html"
+    },
+    {
+      "id": "slide-07-mcp",
+      "title": "Model Context Protocol",
+      "file": "slides/slide-07-mcp.html"
+    },
+    {
+      "id": "slide-08-best-practices",
+      "title": "Best Practices",
+      "file": "slides/slide-08-best-practices.html"
+    },
+    {
+      "id": "slide-09-future",
+      "title": "The Future",
+      "file": "slides/slide-09-future.html"
+    },
+    {
+      "id": "slide-10-qa",
+      "title": "Q&A",
+      "file": "slides/slide-10-qa.html"
+    }
+  ]
+}
