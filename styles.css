@@ -57,7 +57,13 @@ body {
     font-size: 1.5rem;
     font-weight: 600;
     margin-bottom: 1.5rem;
-    color: var(--accent-color);
+
+}
+
+.slide-text-bold {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--success-color);
 }
 
 .slide-text {
@@ -69,6 +75,9 @@ body {
 .slide-list {
     font-size: 1.25rem;
     color: var(--text-secondary);
+    list-style-type: disc;
+    list-style-position: inside;
+    padding-left: 0;
 }
 
 .slide-list > li {
@@ -86,6 +95,10 @@ body {
 @media (min-width: 768px) {
     .slide-title { font-size: 4rem; }
     .slide-text { font-size: 1.5rem; }
-    .slide-list { font-size: 1.5rem; }
+    .slide-list { 
+        font-size: 1.5rem;
+        list-style-type: disc;
+        list-style-position: inside;
+    }
     .slide-list > li { margin-bottom: 1.5rem; }
 }
